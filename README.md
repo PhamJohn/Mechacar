@@ -1,15 +1,15 @@
 # MechaCar_Statistical_Analysis
 
 ## Linear Regression to Predict 
-![image]()
+![linear_regression](https://github.com/codepast12/Mechacar/blob/main/Resources/Linear_Regression.png)
 The variables/coefficients that provided a non-random amount of variance to the mpg values in the dataset is AWD, the spoiler angle, and potentially the vehicle weight.
 
 ## Summary Statistics on Suspension Coils
-![image]()
+![suspension_coils](https://github.com/codepast12/Mechacar/blob/main/Resources/Suspension_Coils.png)
 The standard deviation would suggest that the difference between the lots does not meet the requirements of all three lots being within the required design. 
 
 ## T-Tests on Suspension Coils
-![image]()
+![t_test](https://github.com/codepast12/Mechacar/blob/main/Resources/T-Tests.png)
 Since significance level is around 0.05 percent, and our p-value is above our significance level of .06 -- we do not have sufficient evidence to reject the null hypothesis. Therefore the means are statistically similar.
 
 ## Study Design: MechaCar vs Competition
